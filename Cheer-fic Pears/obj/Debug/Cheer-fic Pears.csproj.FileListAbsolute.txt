@@ -1,0 +1,13 @@
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer-fic Pears.csprojAssemblyReference.cache
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer_fic_Pears.frmMain.resources
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer_fic_Pears.Properties.Resources.resources
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer_fic_Pears.Resource.resources
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer-fic Pears.csproj.GenerateResource.cache
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer-fic Pears.csproj.CoreCompileInputs.cache
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\bin\Debug\Cheer-fic Pears.exe.config
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\bin\Debug\Cheer-fic Pears.exe
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\bin\Debug\Cheer-fic Pears.pdb
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer-fic Pears.exe
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer-fic Pears.pdb
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer_fic_Pears.frmOpenScreen.resources
+C:\Users\Raavee\Desktop\ICS4U1\Cheer-fic Pears\obj\Debug\Cheer_fic_Pears.frmTimeOptions.resources
